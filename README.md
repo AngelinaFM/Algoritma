@@ -5,7 +5,7 @@ Kelas: Informatika C
 Analysis QUIZ 2 (Naive Bayes dan Devide & Conquer):
 
 Analysis 1 pada Metode Naive Bayes:
-Yang dapat saya analisis di dalam base case untuk metode NaiveBayes yang diimplementasikan: 
+Yang dapat saya analisis di dalam base case untuk metode Naive Bayes yang diimplementasikan: 
 Bubble Sort, Quick Sort, dan Naive Bayes. 
 Yaitu ada Bubble Sort, base case terjadi ketika array sudah terurut sehingga iterasi tidak memerlukan pertukaran data lebih lanjut, lagi untuk  menghasilkan efisiensi yang lebih tinggi. Sedangkan pada  Quick Sort, ini menggunakan pendekatan divide-and-conquer dengan base case yang dimana berupa array dengan panjang 0 atau 1, yang  di mana array nya itu langsung akan dianggap terurut tanpa pemrosesan tambahan, sehingga memberikan atau akan menghasilkan waktu yang lebih optimal.
 
