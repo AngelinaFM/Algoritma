@@ -2,7 +2,7 @@ Nama : Angelina Febriani Madesen
 NIM  : F55123084
 Kelas: Informatika C
 
-Analysis QUIZ 2 :
+Analysis QUIZ 2 (Naive Bayes dan Devide & Conquer):
 
 Analysis 1 pada Metode Naive Bayes:
 Yang dapat saya analisis di dalam base case untuk metode NaiveBayes yang diimplementasikan: 
